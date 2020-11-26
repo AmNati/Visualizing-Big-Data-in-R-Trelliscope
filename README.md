@@ -1,1 +1,2 @@
-# Visualizing-Big-Data-in-R-Trelliscope
+# Visualizing-Big-Data-in-R-Using Trelliscope
+Trelliscope provides a way to flexibly visualize large, complex data in great detail from within the R statistical programming environment.Trelliscope provides a scalable way to break a set of data into pieces, apply a plot method to each piece, and then arrange those plots in a grid and interactively sort, filter, and query panels of the display based on metrics of interest. With Trelliscope, we are able to create multipanel displays on data with a very large number of subsets and view them in an interactive and meaningful way.
